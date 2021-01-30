@@ -127,7 +127,7 @@ class _MyHomePageState extends State<MyHomePage> {
               bottom:5
             ),
             middle: Text(
-              'Annap',
+              'Despesas Pessoais',
               style: TextStyle(
                 color: Colors.white,
                 fontSize: 20
@@ -139,7 +139,7 @@ class _MyHomePageState extends State<MyHomePage> {
             ),
           )
         : AppBar(
-            title: Text('Anapp'),
+            title: Text('Despesas Pessoais'),
             actions: actions,
           );
     final availbeHeight = mediaQuery.size.height -

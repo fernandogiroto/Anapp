@@ -1,4 +1,0 @@
-#Mon Jan 04 11:08:53 WET 2021
-base.0=/Users/fernandogiroto/Desktop/anapp/build/app/intermediates/dex/debug/mergeDexDebug/out/classes.dex
-path.0=classes.dex
-renamed.0=classes.dex
